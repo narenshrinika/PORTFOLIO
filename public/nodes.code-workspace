@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../node"
+		},
+		{
+			"path": "../../RESUME"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "node"
+	}
+}
